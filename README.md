@@ -71,7 +71,7 @@ In solving these tasks, we assume the following inputs:
 - A JSON file containing the actual routes executed by the drivers.
 However, these datasets are not pre-existing and are synthetically generated as part of the project.
 
-To achieve these objectives, various Data Mining techniques were employed, including frequent itemsets mining, Jaccard similarity, and edit distance. A detailed description of the developed solutions is provided in the PDF report. The implementation of the project is in Python, and the synthetically generated datasets include lists of SR (standard routes) and AR (actual routes).
+To achieve these objectives, various Data Mining techniques were employed, including frequent itemsets mining and minhashing. A detailed description of the developed solutions is provided in the PDF report. The implementation of the project is in Python, and the synthetically generated datasets include lists of SR (standard routes) and AR (actual routes).
 
 ## Project structure
 
